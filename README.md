@@ -19,3 +19,7 @@ The core of this project is the decision-making engine. It processes the current
 
 ---
 *Created by Oleksandr Orlov as part of an AI & Software Development portfolio.*
+
+
+https://github.com/user-attachments/assets/073e3239-f3b5-4f84-aeeb-6bb4ab07a5f2
+
