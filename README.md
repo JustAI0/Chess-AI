@@ -10,7 +10,6 @@ A functional chess game with an integrated AI opponent. This project explores ga
 ## 🛠 Technology Stack
 * **Language:** Python 3.x
 * **Core Logic:** Developed with focus on modularity and algorithmic efficiency.
-* **Interface:** [Укажи тут, на чем интерфейс, например: Pygame / Console].
 
 ## 📊 AI & Logic
 The core of this project is the decision-making engine. It processes the current board state as data and applies a set of rules to simulate strategic thinking. This demonstrates my ability to:
